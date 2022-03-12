@@ -1,8 +1,0 @@
-PrimeReact
-https://www.primefaces.org/primereact/setup/
-
-npm install primereact
-npm install primeicons
-
-BOOSTRAP
-npm install primeflex --save
